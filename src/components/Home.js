@@ -11,9 +11,9 @@ const Home = () => {
                 <p>Front-end and JavaScript Expert</p>
                 <span className='bodyAfter'></span>
                 <div className="followmelink">
-                <a href="https://github.com/Abhishekkhare77" target="_blank" rel="noreferrer"><i class="fa-brands fa-github"></i></a>
-                <a href="https://www.linkedin.com/in/abhishek-khare-267976224/" target="_blank" rel="noreferrer"><i class="fa-brands fa-linkedin"></i></a>
-                <a href="https://twitter.com/Abhishe94714059" target="_blank" rel="noreferrer"><i class="fa-brands fa-twitter"></i></a><br />
+                <a href="https://github.com/Abhishekkhare77" target="_blank" rel="noreferrer"><i className="fa-brands fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/abhishek-khare-267976224/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin"></i></a>
+                <a href="https://twitter.com/Abhishe94714059" target="_blank" rel="noreferrer"><i className="fa-brands fa-twitter"></i></a><br />
                 </div>
             </div>
             <span className='personImage'></span>

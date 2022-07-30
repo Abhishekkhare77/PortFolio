@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    cursor: none;
     font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -176,5 +177,12 @@ nav ul li a:hover {
     margin-right: 2em;
 }
 .cursor{
-    
+    width: 25px;
+    height: 25px;
+    background-color: #0000ff7a;
+    border: 2px solid white;
+    position: absolute;
+    border-radius: 50%;
+    pointer-events: none;
+    mix-blend-mode: difference;
 }
